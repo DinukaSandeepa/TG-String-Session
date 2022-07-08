@@ -1,4 +1,4 @@
 heroku3
-pyrogram
+Pyrogram==1.4.16
 pyromod
 TgCrypto
