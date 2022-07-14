@@ -1,6 +1,6 @@
 import asyncio
 
-from bot import bot, HU_APP
+from bot import bot
 from pyromod import listen
 from asyncio.exceptions import TimeoutError
 
@@ -15,7 +15,7 @@ from pyrogram.errors import (
 API_TEXT = """Hi, {}.
 This is Pyrogram's String Session Generator Bot. I will generate String Session of your Telegram Account.
 
-By @Discovery_Updates
+By DinuXD
 
 Now send your `API_ID` same as `APP_ID` to Start Generating Session."""
 HASH_TEXT = "Now send your `API_HASH`.\n\nPress /cancel to Cancel Task."
