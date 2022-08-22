@@ -1,3 +1,3 @@
-Pyrogram==1.4.16
+Pyrogram
 pyromod
 TgCrypto
